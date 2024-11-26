@@ -45,4 +45,3 @@ This project involves mutation testing on various Data Structure and Algorithm (
    - Line Coverage: 84.48%  
    - Mutation Score: 81.05%  
    - Mutants Killed: 407  
-   - Timeouts: 72
